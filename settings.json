@@ -1,0 +1,35 @@
+{
+    "editor.fontFamily": "'Dank mono','Operator Mono','Fira Code','MonoLisa',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.lineHeight": 2,
+    "editor.linkedEditing": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.mouseWheelZoom": true,
+    "editor.parameterHints.cycle": true,
+    "editor.smoothScrolling": true,
+    "editor.suggestSelection": "first",
+    "emmet.includeLanguages": {
+        "javascript": "javascript"
+    },
+    "explorer.sortOrder": "type",
+    "files.associations": {
+        "*.js": "javascript"
+    },
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": false,
+    "vscode_custom_css.imports": [
+        "file:///D:/Code/vscode/css.css"
+    ],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+}
